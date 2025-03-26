@@ -123,6 +123,7 @@ https://rgbacolorpicker.com/
 https://youtu.be/AjG9Kwhmwok?si=ZrSRddU73SyTD7WU
 
 And that's all. If you still don't understand, come talk to me or Coach Austin and we can help, but I don't know aobut Coach Austin, he might just send you to me.
+Also this is bugged for some reason so some headers might now show up :(
 
 # Credits?
 Made by your's truly, Everett :)
