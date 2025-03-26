@@ -13,6 +13,7 @@ I'll also add links to tools you might need at the very bottom.
  
 ## Page
 The base of your website/app
+
 ### <html>
 Your HTML (Hyper Text Markup Language) block is the base of your website and most of your elements (text, media, ect) go into here.
 ### <head>
