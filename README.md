@@ -6,3 +6,15 @@ You also probally don't know what the hell html even is or css, but that's okay.
 briefly explain what each block does and how to use it. 👍
 
 I'll also add links to tools you might need at the very bottom.
+
+### Blocks
+
+
+
+### Links
+
+# EduBlocks
+https://edublocks.org/
+
+# Color Picker / Hex Picker
+https://www.google.com/search?client=firefox-b-e&q=google+color+picker
