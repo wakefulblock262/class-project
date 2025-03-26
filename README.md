@@ -133,6 +133,7 @@ The Cursor block lets you change the cursor that shows on your website/app
 ## Media
 Media is pretty self explainatory and all the blocks have mostly the same rules just a different type of media.
 The only thing you need to know is how to get iage urls, which there should be a youtube video showing you how. I'm sorry if you can get it on mobile
+If your EduBlocks gets stuck when pasting image URL just reset the tab and hope auto save is enabled so make sure to save before pasting in a img URL. Your image should show up on your preview.
 
 ## Forms
 These blocks allow the user to summit data to the website/app
