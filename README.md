@@ -174,4 +174,4 @@ And that's all. If you still don't understand, come talk to me or Coach Austin a
 Also the is bugged for some reason so some headers might now show up :( (I think I fixed most of them)
 
 # Credits?
-Made by your's truly, Everett :)
+Made by yours truly, Everett :)
