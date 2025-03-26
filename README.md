@@ -178,7 +178,8 @@ Yep, you can make a desktop app with your EduBlocks code with Electron. I decide
 
 # The End
 And that's all for now and I probally will add more later. If you still don't understand, come talk to me or Coach Austin and we can help, but I don't know aobut Coach Austin, he might just send you to me.
-Also the text is bugged for some reason so some headers might now show up :( (I think I fixed most of them)
+Also the text is bugged for some reason so some headers might now show up :( 
+(I think I fixed most of them)
 
 # Credits?
 Made by yours truly, Everett :)
