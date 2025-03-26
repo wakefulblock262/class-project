@@ -172,9 +172,15 @@ Just extra info
 ### Text Code in EduBlocks
 If you look above your preview in EduBlocks you can see a code button. This button allows you code your website with text-based-coding over block-based-coding. (I don't recommend using this unless you know what you are doing, as it can mess everything up if done wrong)
 
+### Native Desktop App?
+Yep, you can make a desktop app with your EduBlocks code with Electron. I decided to explain what to do in different repository which is linked below.
+
+
 # The End
 And that's all for now and I probally will add more later. If you still don't understand, come talk to me or Coach Austin and we can help, but I don't know aobut Coach Austin, he might just send you to me.
 Also the is bugged for some reason so some headers might now show up :( (I think I fixed most of them)
 
 # Credits?
 Made by yours truly, Everett :)
+
+im such a nerd
