@@ -1,4 +1,4 @@
-#### EduBlocks Class Project
+## EduBlocks Class Project
 
 # Introduction
 Hi! If you're reading this, you probally are doing EduBlocks for Coach Austin's to make a web app.
