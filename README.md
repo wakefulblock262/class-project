@@ -98,8 +98,19 @@ The Cursor block lets you change the cursor that shows on your website/app
 
 ## Media
 Media is pretty self explainatory and all the blocks have mostly the same rules just a different type of media.
-The only thing you need to know is how to get iage urls, which there should be a youtube video showing you how. I'm sorry if you can get it on mobil
+The only thing you need to know is how to get iage urls, which there should be a youtube video showing you how. I'm sorry if you can get it on mobile
 
+## Forms
+These blocks allow the user to summit data to the website/app
+
+## Tables
+These blocks allow for creating tables which can be used to organize or display data.
+
+## Lists
+I don't know, make lists?
+
+## Script
+I don't recommend this, but if you really want to flex, I guess you can? I don't want compition, so I ain't explaining this. Go find an HTML tutorial on how to use emmbedded JS or something.
 
 # Links
 ### EduBlocks
@@ -110,6 +121,8 @@ https://www.google.com/search?client=firefox-b-e&q=google+color+picker
 https://rgbacolorpicker.com/
 ### How To Get Image URL For Media Blocks
 https://youtu.be/AjG9Kwhmwok?si=ZrSRddU73SyTD7WU
+
+And that's all. If you still don't understand, come talk to me or Coach Austin and we can help, but I don't know aobut Coach Austin, he might just send you to me.
 
 # Credits?
 Made by your's truly, Everett :)
