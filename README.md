@@ -14,7 +14,7 @@ I'll also add links to tools you might need at the very bottom.
 ## Page
 The base of your website/app
 
-### <html>
+<html>
 Your HTML (Hyper Text Markup Language) block is the base of your website and most of your elements (text, media, ect) go into here.
 ### <head>
 The head block is where you put your title block which is used to name your website/app. (Not completely a necessity, but helps with tidiness)
