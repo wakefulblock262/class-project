@@ -2,10 +2,17 @@
 
 # Introduction
 Hi! If you're reading this, you probally are doing EduBlocks for Coach Austin's to make a web app.
-You also probally don't know what the hell html even is or css, but that's okay. That's why I am is here to
-briefly explain what each block does and how to use it. 👍
+You also probally don't know what the hell HTML even is or CSS, but that's okay. That's why I am here to
+briefly explain what those are and what each block does and how to use it. 👍
 
 I'll also add links to tools you might need at the very bottom.
+
+# Brief Intro to HTML and CSS
+HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are what power the internet, everything you see online is made by HTML and CSS (With the addition of JS (JavaScript) but you really don't need JS as it is for more advanced things like data management, etc. As I was saying, HTML and CSS make up websites, Electron applications, and even your web browser like Chrome or Safari have HTML in it somewhere. You're probally wondering what HTML and CSS even do, so here's a breif explanation. 
+
+HTML is like the base or the foundation of your website and HTML elements can be added to make up your website's text, media, etc.
+
+CSS is how you beautify your HTML to make it look nice or change how it looks. CSS allows for the developer to change the font, text size, background, text color, etc.
 
 # Blocks
  This is split into sections by the catogories of the blocks with each catogory having a small description. If there isn't a explanation for a certain
@@ -15,7 +22,7 @@ I'll also add links to tools you might need at the very bottom.
 The base of your website/app
 
 ### html
-Your HTML (Hyper Text Markup Language) block is the base of your website and most of your elements (text, media, ect) go into here.
+Your HTML block is the base of your website and most of your elements (text, media, ect) go into here.
  
 ### head
 The head block is where you put your title block which is used to name your website/app. (Not completely a necessity, but helps with tidiness)
@@ -64,7 +71,7 @@ The blank part inside of the H block is used for elementid or classname. (Skip t
 The text box saying Heading is where you type your text.
 
 ### p ___> Paragraph </p
-The P block is pretty self explainatory with the same rules from the H block applying to this block also. (This element using Styling for text size, don't ask why, I don't know why,
+The P block is pretty self explainatory with the same rules from the H block applying to this block also. (This element using Styling for text size over an attribute like the H block has, don't ask why, I don't know why,
 I just document, and I know it's dumb 😭)
 
 ### span ___> Span </span
@@ -152,9 +159,18 @@ https://rgbacolorpicker.com/
 ### How To Get Image URL For Media Blocks
 https://youtu.be/AjG9Kwhmwok?si=ZrSRddU73SyTD7WU
 
+### Simple Website/Web App Sample
 
+
+# Extras
+Just extra info
+
+### Text Code in EduBlocks
+If you look above your preview in EduBlocks you can see a code button. This button allows you code your website with text-based-coding over block-based-coding. (I don't recommend using this unless you know what you are doing, as it can mess everything up if done wrong)
+
+# The End
 And that's all. If you still don't understand, come talk to me or Coach Austin and we can help, but I don't know aobut Coach Austin, he might just send you to me.
-Also this is bugged for some reason so some headers might now show up :(
+Also the is bugged for some reason so some headers might now show up :( (I think I fixed most of them)
 
 # Credits?
 Made by your's truly, Everett :)
