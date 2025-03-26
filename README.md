@@ -174,7 +174,7 @@ If you look above your preview in EduBlocks you can see a code button. This butt
 
 ### Native Desktop App?
 Yep, you can make a desktop app with your EduBlocks code with Electron. I decided to explain what to do in different repository which is linked below. (This won't work on the MacBooks as they have restrictions on what can be installed and ask Coach Austin before installing something on the Windows laptops)
-
+https://github.com/wakefulblock262/html-edublocks-to-electron
 
 # The End
 And that's all for now and I probally will add more later. If you still don't understand, come talk to me or Coach Austin and we can help, but I don't know aobut Coach Austin, he might just send you to me.
