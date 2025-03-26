@@ -149,16 +149,24 @@ I don't recommend this, but if you really want to flex, I guess you can? I don't
 
 # Links
 ### EduBlocks
+```
 https://edublocks.org/
+```
 
 ### Color Picker / Hex Picker
+```
 https://www.google.com/search?client=firefox-b-e&q=google+color+picker
+```
 
 ### RGBA Color Picker
+```
 https://rgbacolorpicker.com/
+```
 
 ### How To Get Image URL For Media Blocks
+```
 https://youtu.be/AjG9Kwhmwok?si=ZrSRddU73SyTD7WU
+```
 
 ### Simple Website/Web App Sample
 ```
