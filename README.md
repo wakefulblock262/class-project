@@ -161,7 +161,10 @@ https://rgbacolorpicker.com/
 https://youtu.be/AjG9Kwhmwok?si=ZrSRddU73SyTD7WU
 
 ### Simple Website/Web App Sample
+https://app.edublocks.org/project/GydsKFy0bpZb50X2Ykh73SGhQqu2/EIUodYZnYYuU9SxcorX3
 
+### Advanced Website/Web App Sample
+still working on this
 
 # Extras
 Just extra info
@@ -170,7 +173,7 @@ Just extra info
 If you look above your preview in EduBlocks you can see a code button. This button allows you code your website with text-based-coding over block-based-coding. (I don't recommend using this unless you know what you are doing, as it can mess everything up if done wrong)
 
 # The End
-And that's all. If you still don't understand, come talk to me or Coach Austin and we can help, but I don't know aobut Coach Austin, he might just send you to me.
+And that's all for now and I probally will add more later. If you still don't understand, come talk to me or Coach Austin and we can help, but I don't know aobut Coach Austin, he might just send you to me.
 Also the is bugged for some reason so some headers might now show up :( (I think I fixed most of them)
 
 # Credits?
