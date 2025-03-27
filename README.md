@@ -197,5 +197,3 @@ Also the text is bugged for some reason so some headers might now show up :(
 
 # Credits?
 Made by yours truly, Everett :)
-
-im such a nerd
