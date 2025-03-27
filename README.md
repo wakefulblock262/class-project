@@ -89,7 +89,7 @@ The Element ID attribute lets a block be called upon to be changed by a function
 ### class=
 The Class element is just an alternative to Element ID and I actually recommend you use this over Element IDs
 
-##S tyling
+## Styling
 Allows for elements to be styled like changing text color, changing background of website/app, etc.
 
 ### <style>
